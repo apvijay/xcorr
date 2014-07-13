@@ -1,0 +1,4 @@
+n-dimensional correlation:
+
+Calculates cross-correlation between two n-dimensinal matrices. Works 
+only for n <= 3 now.
